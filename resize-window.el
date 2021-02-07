@@ -40,4 +40,6 @@
 	  (error (beep)))))
     (message "Done.")))
 
+(provide 'resize-window)
+
 ;;; resize-window.el ends here
